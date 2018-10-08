@@ -5,10 +5,14 @@
 
 ![alt text](https://github.com/elena111111/RollMatrix/blob/master/roll-example3.png)
 
+
 Или если нам нужно проверить много разных случаев:
 
 ![alt text](https://github.com/elena111111/RollMatrix/blob/master/roll-example1.png)
 
+
 Далее идет перебор размерностей, который заканчивается так:
 
 ![alt text](https://github.com/elena111111/RollMatrix/blob/master/roll-example2.png)
+
+
